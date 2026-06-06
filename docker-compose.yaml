@@ -32,7 +32,7 @@ services:
 
   api:
     build:
-      context: ./src
+      context: ./Banking.Transaction
       dockerfile: Dockerfile
     container_name: api
     restart: unless-stopped
