@@ -1,0 +1,31 @@
+## Carpetas de Visual Studio
+.vs/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## NuGet
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## Otros archivos generados
+*.cache
+*.dll
+*.pdb
+project.lock.json
+project.fragment.lock.json
+artifacts/
